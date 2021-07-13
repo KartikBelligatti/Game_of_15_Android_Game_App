@@ -18,7 +18,7 @@
   
   
   ![Screenshot (1956)](https://user-images.githubusercontent.com/58390249/125406744-cc002480-e3d6-11eb-8bc0-d6a9250c35e4.png)
-  
+ 
   
   2.Game Activity.
   
@@ -29,4 +29,4 @@
    3.Help Activity.
    
    
-   ![Screenshot (1958)](https://user-images.githubusercontent.com/58390249/125407037-1da8af00-e3d7-11eb-94eb-6f21a58acd78.png)
+  ![Screenshot (1958)](https://user-images.githubusercontent.com/58390249/125407037-1da8af00-e3d7-11eb-94eb-6f21a58acd78.png)
